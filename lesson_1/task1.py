@@ -6,3 +6,4 @@ for number in numbers:
     else:
         sum += float(number)
 print(sum)
+
